@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(94, 230, 235);
+}
+
+.box1{
+    background-color: white;
+    border: 10px rgb(216, 184, 43) solid;
+    border-radius: 15px;
+}
+
+.box1 h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: rgb(216, 184, 43);
+}
+
+.box1 p{
+     text-align: center;
+     color: rgb(216, 184, 43);
+
+}
+
+.box1 button {
+    margin-bottom: 10px;
+    background-color: rgb(216, 184, 43);
+}
+
+.init-page{
+    width: 80%;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right:auto ; 
+}
+
+.questions-page{
+    width: 80%;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right:auto ; 
+
+}
+
+.container{
+    background-color: white;
+    border: 10px rgb(216, 184, 43) solid;
+    border-radius: 15px;
+
+}
+.questions-page__question{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: rgb(216, 184, 43);
+
+}
+.questions-page__submit-btn{
+    margin-bottom: 10px;
+    background-color: rgb(216, 184, 43);
+
+}
+
+.questions-page__continue-btn{
+    margin-bottom: 10px;
+    background-color: rgb(216, 184, 43);
+
+}
